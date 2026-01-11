@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/apache-log4j-extras-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/ashot-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/ATExcelReport.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/extentreports-2.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/jfreechart.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/jfreechart-dependency-jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/poi-3.15.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://poi.apache.org/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/poi-ooxml-3.15.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://poi.apache.org/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/poi-ooxml-schemas-3.15.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://poi.apache.org/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/sikuli-java.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/unirest-java-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/Selenium Jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Downloads/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Desktop/New folder/client-combined-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vinod/Desktop/New folder/client-combined-3.12.0-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

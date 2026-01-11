@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Powerhouse_Automation" verbose="3" parallel="false">
+
+
+	<test name="Powerhouse_Automation" preserve-order="true">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.powerhouse.testscripts.TestSuite">
+				<methods>
+				   
+				    
+				   
+				</methods>
+			</class>
+		</classes>
+	</test>	
+	<!-- <listeners>
+	    <listener class-name="com.powerhouse.listeners.AnnotationTransformer"></listener>
+       <listener class-name="com.powerhouse.listeners.ExtentReporterNg"/>
+  </listeners> -->
+  </suite>
