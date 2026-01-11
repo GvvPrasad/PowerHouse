@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="3" name="Failed suite [Powerhouse_Automation]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Powerhouse_Automation(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.powerhouse.testscripts.TestSuite">
+        <methods>
+          <include name="setUp"/>
+          <include name="signup"/>
+        </methods>
+      </class> <!-- com.powerhouse.testscripts.TestSuite -->
+    </classes>
+  </test> <!-- Powerhouse_Automation(failed) -->
+</suite> <!-- Failed suite [Powerhouse_Automation] -->
